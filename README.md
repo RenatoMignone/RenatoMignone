@@ -18,7 +18,9 @@ Hi, i am a future software engineer doin the Bachelor's degree at Unisannio in B
 <img align="left" alt="Matlab" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" />
 
 
-<br />
-
 My contacts:
 [linkedin]: https://www.linkedin.com/in/renato-mignone/
+
+<br />
+
+
