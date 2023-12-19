@@ -19,3 +19,6 @@ Hi, i am a future software engineer doin the Bachelor's degree at Unisannio in B
 
 
 <br />
+
+My contacts:
+[linkedin]: https://www.linkedin.com/in/renato-mignone/
