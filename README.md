@@ -1,4 +1,4 @@
-#Renato Mignone 👨🏻‍💻🖥️
+# Renato Mignone 👨🏻‍💻🖥️
 
 Hi, i am a future software engineer doin the Bachelor's degree at Unisannio in Benevento
 
