@@ -1,6 +1,6 @@
 # Renato Mignone 👨🏻‍💻🖥️
 
-Hi, i am a future software engineer doin the Bachelor's degree at Unisannio in Benevento
+Hi, i am a future software engineer attending the Bachelor's degree at Unisannio in Benevento
 
 **`Developer`**
  
