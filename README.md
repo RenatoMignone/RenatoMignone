@@ -1,6 +1,6 @@
 # Renato Mignone 👨🏻‍💻🖥️
 
-Hi, i am a future Computer Science engineer attending the Bachelor's degree at Unisannio in Benevento
+Hi, i am a Computer Science engineer.
 
 **`Developer`**
  
