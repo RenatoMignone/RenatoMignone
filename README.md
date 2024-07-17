@@ -1,6 +1,6 @@
 # Renato Mignone 👨🏻‍💻🖥️
 
-Hi, i am a Computer Science engineer.
+Hi, i am a Computer Science engineer, attending the Cybersecurity course @Politecnico di Torino.
 
 **`Developer`**
  
