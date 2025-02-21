@@ -43,14 +43,5 @@ I love connecting with fellow developers and tech enthusiasts. Whether you have 
 
 ---
 
-## More About Me
-
-When I'm not immersed in code, I enjoy:
-- **Exploring Tech:** Reading up on the latest cybersecurity and tech innovations.
-- **Open Source:** Contributing to and learning from various open-source projects.
-- **Hobbies:** Playing chess, photography, and outdoor adventures.
-
----
-
 Thank you for visiting my profile!  
 Let's build something great together.
