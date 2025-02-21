@@ -32,12 +32,6 @@ I have hands-on experience with a variety of languages and tools, including:
 > _Feel free to check out my [pinned repositories](https://github.com/RenatoMignone?tab=pinned) for more details._
 
 
-## Certifications & Achievements
-
-- **Cybersecurity Course** – Politecnico di Torino
-- [Certification/Award Name] – Awarding Organization (Year)
-
----
 
 ## Let's Connect
 
