@@ -6,8 +6,7 @@ Hi, I'm Renato Mignone – a Computer Science Engineer currently pursuing a Cybe
 
 ## About Me
 
-I'm dedicated to creating secure, efficient, and scalable software. My journey in tech has led me to specialize in developing robust applications and delving deep into cybersecurity challenges. When I'm not programming, you can find me reading about the latest tech innovations, experimenting with new tools, or simply enjoying a good game of chess.
-
+My journey into cybersecurity began during my undergraduate studies, where I discovered a profound passion for the field. I dedicated my thesis to researching user privacy and security, which not only deepened my interest but also paved the way for my master’s studies. Embracing new challenges to expand my skill set is what drives me, and I firmly believe in lifelong learning. I continuously seek opportunities for both personal and professional growth, always staying current with the latest trends and innovations in technology.
 ---
 
 ## Languages & Tools
