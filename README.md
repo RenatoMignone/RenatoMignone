@@ -37,16 +37,6 @@ I have hands-on experience with a variety of languages and tools, including:
 
 > _Feel free to check out my [pinned repositories](https://github.com/RenatoMignone?tab=pinned) for more details._
 
----
-
-## GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RenatoMignone&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RenatoMignone&theme=radical" alt="GitHub Streak" />
-</div>
-
----
 
 ## Certifications & Achievements
 
