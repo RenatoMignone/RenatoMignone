@@ -2,7 +2,12 @@
 
 Hi, I'm Renato Mignone – a Computer Science Engineer currently pursuing a Cybersecurity course at [Politecnico di Torino](https://www.polito.it/). Passionate about coding and cybersecurity, I love building innovative solutions and exploring new tech trends.
 
+---
+
+# About Me
+
 My journey into cybersecurity began during my undergraduate studies, where I discovered a profound passion for the field. I dedicated my thesis to researching user privacy and security, which not only deepened my interest but also paved the way for my master’s studies. Embracing new challenges to expand my skill set is what drives me, and I firmly believe in lifelong learning. I continuously seek opportunities for both personal and professional growth, always staying current with the latest trends and innovations in technology.
+
 ---
 
 ## Languages & Tools
