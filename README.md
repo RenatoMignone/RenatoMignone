@@ -14,12 +14,6 @@ My journey into cybersecurity began during my undergraduate studies, where I dis
 
 I have hands-on experience with a variety of languages and tools, including:
 
-- **Java & Spring:** Building scalable, enterprise-level applications.
-- **Python:** Scripting, automation, and data analysis.
-- **C/C++:** Low-level programming and system development.
-- **Linux:** Proficient in managing and navigating Linux environments.
-- **Git & GitHub:** Version control and collaborative development.
-
 <div align="center">
   <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
   <img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
