@@ -11,7 +11,7 @@ Hi, I'm Renato Mignone – a Computer Science Engineer currently pursuing a Cybe
 My journey into cybersecurity began during my undergraduate studies, where I discovered a profound passion for the field. I dedicated my thesis to researching user privacy and security, which not only deepened my interest but also paved the way for my master’s studies. Embracing new challenges to expand my skill set is what drives me, and I firmly believe in lifelong learning. 
 
 ---
-<--
+
 ## Languages & Tools
 
 I have hands-on experience with a variety of languages and tools, including:
@@ -30,7 +30,6 @@ I have hands-on experience with a variety of languages and tools, including:
   <img align="left" alt="Matlab" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" />
 </div>
 <br><br>
--->
 
 > _Feel free to check out my [pinned repositories](https://github.com/RenatoMignone?tab=pinned) for more details._
 
