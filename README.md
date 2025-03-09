@@ -1,13 +1,10 @@
 # Renato Mignone 👨🏻‍💻🖥️
-Hi, I'm **Renato Mignone** – a Computer Science Engineer currently pursuing a Cybersecurity Master's Degree at [Politecnico di Torino](https://www.polito.it/). Passionate about coding and cybersecurity.
 
----
+Hi, I'm Renato Mignone – a Computer Science Engineer currently pursuing a Cybersecurity Master's Degree at [Politecnico di Torino](https://www.polito.it/). Passionate about coding and cybersecurity.
 
-## About Me
+# About Me
 
-My journey into cybersecurity began during my undergraduate studies, where I discovered a profound passion for the field. I dedicated my thesis to researching user privacy and security, which not only deepened my interest but also paved the way for my master’s studies. Embracing new challenges to expand my skill set is what drives me, and I firmly believe in lifelong learning.
-
----
+My journey into cybersecurity began during my undergraduate studies, where I discovered a profound passion for the field. I dedicated my thesis to researching user privacy and security, which not only deepened my interest but also paved the way for my master’s studies. Embracing new challenges to expand my skill set is what drives me, and I firmly believe in lifelong learning. 
 
 ## Languages & Tools
 
@@ -28,11 +25,10 @@ I have hands-on experience with a variety of languages and tools, including:
 </div>
 <br><br>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RenatoMignone&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
 
-## Connect with Me
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=RenatoMignone&show_icons=true&locale=en&layout=compact" alt="RenatoMignone" /></p>
+
+Contact Me!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renato-mignone/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:renato.mignone@gmail.com)
