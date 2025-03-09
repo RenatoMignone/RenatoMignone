@@ -35,6 +35,8 @@ I have hands-on experience with a variety of languages and tools, including:
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=RenatoMignone&show_icons=true&locale=en&layout=compact" alt="RenatoMignone" /></p>
 
 
+<br><br>
+
 ---
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renato-mignone/)
