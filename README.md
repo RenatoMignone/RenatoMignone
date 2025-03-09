@@ -26,7 +26,7 @@ I have hands-on experience with a variety of languages and tools, including:
 <br><br>
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=RenatoMignone&show_icons=true&locale=en&layout=compact" alt="RenatoMignone" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=RenatoMignone&show_icons=true&locale=en&layout=compact" alt="RenatoMignone" /></p>
 
 Contact Me!
 
