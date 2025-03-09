@@ -1,15 +1,10 @@
----
-
 # Renato Mignone 👨🏻‍💻🖥️
 
 Hi, I'm Renato Mignone – a Computer Science Engineer currently pursuing a Cybersecurity Master's Degree at [Politecnico di Torino](https://www.polito.it/). Passionate about coding and cybersecurity.
 
----
-
 # About Me
 
 My journey into cybersecurity began during my undergraduate studies, where I discovered a profound passion for the field. I dedicated my thesis to researching user privacy and security, which not only deepened my interest but also paved the way for my master’s studies. Embracing new challenges to expand my skill set is what drives me, and I firmly believe in lifelong learning. 
-
 
 ## Languages & Tools
 
@@ -33,19 +28,8 @@ I have hands-on experience with a variety of languages and tools, including:
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=RenatoMignone&show_icons=true&locale=en&layout=compact" alt="RenatoMignone" /></p>
 
-
-<!-- <br><br>
-
-<br><br>
-
-<br><br> -->
-
-
-
 Contact Me!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renato-mignone/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:renato.mignone@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_renatomignone_/)
-
-
