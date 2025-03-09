@@ -1,7 +1,4 @@
 # Renato Mignone 👨🏻‍💻🖥️
-
-![Banner](https://via.placeholder.com/1200x300?text=Renato+Mignone+Presentation)
-
 Hi, I'm **Renato Mignone** – a Computer Science Engineer currently pursuing a Cybersecurity Master's Degree at [Politecnico di Torino](https://www.polito.it/). Passionate about coding and cybersecurity.
 
 ---
@@ -31,13 +28,9 @@ I have hands-on experience with a variety of languages and tools, including:
 </div>
 <br><br>
 
----
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RenatoMignone&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
-
----
 
 ## Connect with Me
 
