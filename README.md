@@ -16,7 +16,7 @@ My journey into cybersecurity began during my undergraduate studies, where I dis
 
 I have hands-on experience with a variety of languages and tools, including:
 
-<!-- <div align="center">
+<div align="center">
   <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
   <img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
   <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" />
@@ -29,7 +29,7 @@ I have hands-on experience with a variety of languages and tools, including:
   <img align="left" alt="MongoDB" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" />
   <img align="left" alt="Matlab" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" />
 </div>
-<br><br> -->
+<br><br>
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=RenatoMignone&show_icons=true&locale=en&layout=compact" alt="RenatoMignone" /></p>
@@ -43,7 +43,7 @@ I have hands-on experience with a variety of languages and tools, including:
 
 
 
-# Contact Me!
+## Contact Me!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renato-mignone/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:renato.mignone@gmail.com)
