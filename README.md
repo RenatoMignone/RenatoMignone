@@ -1,29 +1,11 @@
-# Renato Mignone 👨🏻‍💻🖥️
+# Renato Mignone 👨🏻‍💻
 
-Hi, I'm Renato Mignone – a Computer Science Engineer currently pursuing a Cybersecurity Master's Degree at [Politecnico di Torino](https://www.polito.it/). Passionate about coding and cybersecurity.
+Hi, I'm Renato, a Security Engineer from Turin, Italy, currently pursuing an MSc in Cybersecurity Engineering at [Politecnico di Torino](https://www.polito.it/).
 
-# About Me
+## About Me
 
-My journey into cybersecurity began during my undergraduate studies, where I discovered a profound passion for the field. I dedicated my thesis to researching user privacy and security, which not only deepened my interest but also paved the way for my master’s studies. Embracing new challenges to expand my skill set is what drives me, and I firmly believe in lifelong learning. 
-
-<!-- ## Languages & Tools
-
-I have hands-on experience with a variety of languages and tools, including:
-
-<div align="center">
-  <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-  <img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
-  <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" />
-  <img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-  <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/cplusplus/cplusplus-original.svg" />
-  <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-  <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-  <img align="left" alt="SQL" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" />
-  <img align="left" alt="MongoDB" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" />
-  <img align="left" alt="Matlab" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" />
-</div>
-<br><br> -->
+My journey started during my undergrad, where I first got hooked on system security and privacy research.
+Right now I'm based in **Düsseldorf, Germany**, working as a Security Research Engineer at **Huawei's Data Privacy Lab** for my master's thesis, designing post-quantum secure anonymous authentication protocols using lattice-based and hash-based cryptographic constructions.
 
 ## Contacts
 
