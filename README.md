@@ -11,8 +11,7 @@ My work spans post-quantum cryptography, kernel and systems security, and AI Sec
 
 ## Current Work
 
-**Master's Thesis - Post-Quantum Secure Anonymous Authentication**
-Huawei Data Privacy Lab, Düsseldorf, Germany
+Security Researcher Intern - Huawei Data Privacy Lab, Düsseldorf, Germany
 
 Designing anonymous token systems secure against both classical and quantum adversaries (Grover and Shor threat models). Two constructions in development in Rust: one using CRYSTALS-Dilithium lattice signatures with Schnorr-based zero-knowledge proofs, one using MPC-based OPRFs to eliminate the ZK proof phase entirely.
 
