@@ -2,7 +2,7 @@
 
 Security Research Engineer at **Huawei's Data Privacy Lab** (Düsseldorf), writing my Master's thesis on post-quantum anonymous authentication protocols. Pursuing an MSc in Cybersecurity Engineering at Politecnico di Torino (GPA 29.48/30), expected October 2026.
 
-My work spans post-quantum cryptography, kernel and systems security, and AI-driven threat detection - from designing lattice-based anonymous credential schemes resistant to quantum adversaries, to building ML pipelines for malware classification and zero-day intrusion detection, to low-level eBPF verifier research at the Linux kernel level.
+My work spans post-quantum cryptography, kernel and systems security, and AI Security - from designing lattice-based anonymous credential schemes resistant to quantum adversaries, to building ML pipelines for malware classification and zero-day intrusion detection, to low-level eBPF verifier research at the Linux kernel level.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-renato--mignone-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renato-mignone/)
 [![Email](https://img.shields.io/badge/Email-renato.mignone@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:renato.mignone@gmail.com)
