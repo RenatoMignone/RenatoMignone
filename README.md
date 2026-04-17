@@ -30,5 +30,6 @@ Final grade 101/110, graduated June 2024
 ## Recognitions
 
 - **1st Place - IEEE-HKN International Hackathon 2025** - awarded at the 15th anniversary celebration of the IEEE-HKN organisational merger
-- **Top 100 (88th) - Reply Hack The Code Challenge 2025** - global algorithmic optimisation and CTF competition (56M points)
+- **Top 60 (57th/2000 Teams) - Reply AI Agents Challenge 2026** - Global Agentic AI challenge
+- **Top 100 (88th/2000 Teams) - Reply Hack The Code Challenge 2025** - global algorithmic optimisation and CTF competition (56M points)
 - **IEEE-HKN Honor Society Member** - Mu Nu Chapter, Politecnico di Torino
