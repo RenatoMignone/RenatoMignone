@@ -22,15 +22,6 @@ I also work across kernel and systems security, AI-driven threat detection, anon
 
 My main research direction is the security of agentic AI systems: how autonomous or semi-autonomous agents should use tools, call APIs, handle context, preserve user privacy, and operate under auditable permission boundaries.
 
-I am especially interested in:
-
-- Secure agent/tool/API authorization
-- Prompt injection and malicious context
-- Tool-use abuse and over-permissioned agents
-- Sandboxing, provenance, and auditability
-- Agentic AI for vulnerability research and secure code review
-- Human-in-the-loop validation for security-critical workflows
-
 ### Privacy-Preserving Authorization
 
 At Huawei Research / Huawei Data Privacy Lab, I work on privacy-preserving technologies for secure credentials, anonymous authentication, and data-protection-oriented access control.
@@ -55,16 +46,6 @@ My research focus includes privacy-preserving authorization, anonymous credentia
 
 - **[Linux eBPF Verifier Bypass Research](https://github.com/RenatoMignone/Linux-eBPF-Verifier-Bypass-Research)**  
   Kernel security research on Linux eBPF verifier edge cases, PoC exploitation, and verifier hardening.
-
----
-
-## Technical Focus
-
-- **Agentic AI Security:** secure agent workflows, tool-use security, permission models, auditability, human-in-the-loop validation
-- **AI for Cybersecurity:** malware classification, anomaly detection, network-flow analysis, MITRE ATT&CK mapping
-- **Applied Cryptography:** post-quantum cryptography, anonymous credentials, zero-knowledge proofs, privacy-preserving verification
-- **Systems Security:** Linux kernel security, eBPF verifier analysis, exploit research, sandboxing
-- **Secure Engineering:** Python, C, Rust, TypeScript, React, Node.js, Docker, PostgreSQL, Linux
 
 ---
 
