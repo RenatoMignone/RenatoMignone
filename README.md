@@ -26,7 +26,7 @@ The core goal is to let systems verify limited authorization properties without 
 
 ---
 
-**[AgentKit SEO](https://agentkit-seo.github.io/)** - Co-creator and maintainer of an MIT-licensed toolkit for structured agent context and reproducible AI-assisted workflows. It ships Markdown-first skills and a Node.js CLI for Codex, Claude Code, Gemini CLI, and OpenCode.
+**[AgentKit SEO](https://agentkit-seo.github.io/)** - Co-creator and maintainer of an MIT-licensed framework for grounding career and profile optimization agents in one reusable `agent-context-file`. It ships Markdown-first skills and a Node.js CLI for Codex, Claude Code, Gemini CLI, and OpenCode, covering GitHub, LinkedIn, CV/ATS, web portfolio, and X/Twitter optimization.
 
 [Repo](https://github.com/agentkit-seo/agentkit-seo) · [Usage Docs](https://agentkit-seo.github.io/docs/usage/) · [npm](https://www.npmjs.com/package/agentkit-seo)
 
